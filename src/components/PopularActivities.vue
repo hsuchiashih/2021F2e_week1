@@ -30,7 +30,7 @@
                     <p class="m-0 text_overflow_ellipsis_location">{{item.Location}}</p>
                   </div>
                   <div class="col-6">
-                    <button type="button" class="btn_custom btn btn-outline-primary" data-toggle="modal" data-target="#exampleModal">活動詳情</button>
+                    <button type="button" class="btn_custom btn btn-outline-primary">活動詳情</button>
                   </div>
                 </div>
               </div>
@@ -39,18 +39,6 @@
         </div>
       </div>
     </div> 
-<vue-final-modal v-model="showModal" classes="modal-container" content-class="modal-content">
-      <button class="modal__close" @click="showModal = false">
-        <mdi-close></mdi-close>
-      </button>
-      <span class="modal__title">Hello, vue-final-modal</span>
-      <div class="modal__content">
-        <p v-for="i in 100" :key="i">
-          Vue Final Modal is a renderless, stackable, detachable and lightweight modal component.
-        </p>
-      </div>
-    </vue-final-modal>
-    <v-button @click="showModal = true">Open modal</v-button>
   </div>
 </template>
 
