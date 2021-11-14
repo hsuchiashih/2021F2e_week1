@@ -39,43 +39,43 @@ export default {
      citysPage1: [
        {
          name: '台北',
-         url:'../../static/img_test/PopularCities_img/city_a1.png',
+         url:'./static/img_test/PopularCities_img/city_a1.png',
          class:'item item-1',
          ref: 'Taipei'
        },
        {
          name: '新北',
-         url:'../../static/img_test/PopularCities_img/city_a2.png',
+         url:'./static/img_test/PopularCities_img/city_a2.png',
          class:'item item-2',
          ref: 'NewTaipei'
        },
        {
          name: '桃園',
-         url:'../../static/img_test/PopularCities_img/city_a3.png',
+         url:'./static/img_test/PopularCities_img/city_a3.png',
          class:'item item-3',
          ref: 'Taoyuan'
        },
        {
          name: '新竹',
-         url:'../../static/img_test/PopularCities_img/city_a4.png',
+         url:'./static/img_test/PopularCities_img/city_a4.png',
          class:'item item-4',
          ref: 'Hsinchu'
        },
        {
          name: '台中',
-         url:'../../static/img_test/PopularCities_img/city_a5.png',
+         url:'./static/img_test/PopularCities_img/city_a5.png',
          class:'item item-5',
          ref: 'Taichung'
        },
        {
          name: '南投',
-         url:'../../static/img_test/PopularCities_img/city_a6.png',
+         url:'./static/img_test/PopularCities_img/city_a6.png',
          class:'item item-6',
          ref: 'NantouCounty'
        },
        {
          name: '嘉義',
-         url:'../../static/img_test/PopularCities_img/city_a7.png',
+         url:'./static/img_test/PopularCities_img/city_a7.png',
          class:'item item-7',
          ref: 'Chiayi'
        }
@@ -83,43 +83,43 @@ export default {
      citysPage2: [
        {
          name: '台南',
-         url:'../../static/img_test/PopularCities_img/city_b1.png',
+         url:'./static/img_test/PopularCities_img/city_b1.png',
          class:'item item-1',
          ref: 'Tainan'
        },
        {
          name: '高雄',
-         url:'../../static/img_test/PopularCities_img/city_b2.png',
+         url:'./static/img_test/PopularCities_img/city_b2.png',
          class:'item item-2',
          ref: 'Kaohsiung'
        },
        {
          name: '屏東',
-         url:'../../static/img_test/PopularCities_img/city_b3.png',
+         url:'./static/img_test//PopularCities_img/city_b3.png',
          class:'item item-3',
          ref: 'PingtungCounty'
        },
        {
          name: '宜蘭',
-         url:'../../static/img_test/PopularCities_img/city_b4.png',
+         url:'./static/img_test//PopularCities_img/city_b4.png',
          class:'item item-4',
          ref: 'YilanCounty'
        },
        {
          name: '花蓮',
-         url:'../../static/img_test/PopularCities_img/city_b5.png',
+         url:'./static/img_test/PopularCities_img/city_b5.png',
          class:'item item-5',
          ref: 'HualienCounty'
        },
        {
          name: '台東',
-         url:'../../static/img_test/PopularCities_img/city_b6.png',
+         url:'./static/img_test/PopularCities_img/city_b6.png',
          class:'item item-6',
          ref: 'TaitungCounty'
        },
        {
          name: '金門馬祖.澎湖',
-         url:'../../static/img_test/PopularCities_img/city_b7.png',
+         url:'./static/img_test/PopularCities_img/city_b7.png',
          class:'item item-7',
          ref: 'KinmenCounty'
        }
